@@ -1,0 +1,19 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="os.com.chappiefamilylocator.activities.MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/family_location_recycler_view"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:clipToPadding="false"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+</android.support.design.widget.CoordinatorLayout>

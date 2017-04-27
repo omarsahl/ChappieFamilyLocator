@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e2b31</color>
+    <color name="colorPrimaryDark">#182328</color>
+    <color name="colorAccent">#E96505</color>
+
+    <!--Splash Theme Colors-->
+    <color name="splashColorPrimary">#182328</color>
+    <color name="splashColorPrimaryDark">#182328</color>
+    <color name="splashColorAccent">#E96505</color>
+
+    <color name="white">#ffffff</color>\
+    <color name="black">#383838</color>
+    <color name="lightGrey">#BDBDBD</color>
+</resources>
