@@ -1,4 +1,4 @@
-![Image](docs/chappie_family_locator_banner-01.png)
+![Image](docs/banner.png)
 
 # ChappieFamilyLocator
 **Chappie** is an app that lets you view the real-time location of you family members.
