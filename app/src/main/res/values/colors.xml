@@ -9,7 +9,7 @@
     <color name="splashColorPrimaryDark">#182328</color>
     <color name="splashColorAccent">#E96505</color>
 
-    <color name="white">#ffffff</color>\
+    <color name="white">#ffffff</color>
     <color name="black">#383838</color>
     <color name="lightGrey">#BDBDBD</color>
 </resources>
