@@ -20,9 +20,9 @@
 - [Firebase Authentication](https://firebase.google.com/)
 - [Firebase Realtime Database](https://firebase.google.com/)
 - [Firebase UI](https://github.com/firebase/FirebaseUI-Android)
-- Play Services Authentication
-- Play Services Maps
-- Play Services Location
+- [Play Services Authentication](https://firebase.google.com/docs/auth/)
+- [Play Services Maps](https://developers.google.com/maps/documentation/android-api/)
+- [Play Services Location](https://developers.google.com/android/guides/setup)
 - [Greenrobot Eventbus](https://github.com/greenrobot/EventBus)
 - [EasyPermissions](https://github.com/googlesamples/easypermissions)
 - [Picasso](http://square.github.io/picasso/)
