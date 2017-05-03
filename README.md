@@ -15,3 +15,19 @@
 - [ ] Add Geofencing feature.
 - [ ] Add speed limits feature.
 - [ ] Allow the user to create multiple groups.
+
+# Libraries and SDKs used
+- [Firebase Authentication](https://firebase.google.com/)
+- [Firebase Realtime Database](https://firebase.google.com/)
+- [Firebase UI](https://github.com/firebase/FirebaseUI-Android)
+- Play Services Authentication
+- Play Services Maps
+- Play Services Location
+- [Greenrobot Eventbus](https://github.com/greenrobot/EventBus)
+- [EasyPermissions](https://github.com/googlesamples/easypermissions)
+- [Picasso](http://square.github.io/picasso/)
+- [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+- [Material Dialogs](https://github.com/afollestad/material-dialogs)
+- [RxJava: Reactive Extensions for the JVM](https://github.com/ReactiveX/RxJava)
+- [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
+- [Clans - FloatingActionButton](https://github.com/Clans/FloatingActionButton)
